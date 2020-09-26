@@ -1,0 +1,10 @@
+2020-09-24 07:52:32,157: [<module>]: Running Update
+2020-09-24 07:52:32,850: [check_new]: checked latest version of driver
+2020-09-24 07:52:32,851: [download_new]: no new version
+2020-09-24 07:52:32,852: [<module>]: End of Update
+
+2020-09-25 09:38:48,512: [<module>]: Running Update
+2020-09-25 09:38:49,847: [check_new]: checked latest version of driver
+2020-09-25 09:38:49,851: [download_new]: no new version
+2020-09-25 09:38:49,852: [<module>]: End of Update
+
