@@ -8,3 +8,147 @@
 2020-09-25 09:38:49,851: [download_new]: no new version
 2020-09-25 09:38:49,852: [<module>]: End of Update
 
+2020-10-02 08:00:39,936: [<module>]: Running Update
+2020-10-02 08:00:41,210: [check_new]: checked latest version of driver
+2020-10-02 08:00:41,213: [download_new]: no new version
+2020-10-02 08:00:41,213: [<module>]: End of Update
+
+2020-10-09 09:00:03,791: [<module>]: Running Update
+2020-10-09 09:00:04,620: [check_new]: checked latest version of driver
+2020-10-09 09:00:04,620: [download_new]: no new version
+2020-10-09 09:00:04,620: [<module>]: End of Update
+
+2020-10-11 08:48:35,577: [<module>]: Running Update
+2020-10-11 08:48:36,290: [check_new]: checked latest version of driver
+2020-10-11 08:48:36,291: [download_new]: no new version
+2020-10-11 08:48:36,291: [<module>]: End of Update
+
+2020-10-16 08:37:45,498: [<module>]: Running Update
+2020-10-16 08:37:46,129: [check_new]: checked latest version of driver
+2020-10-16 08:37:46,131: [download_new]: there is a new version of driver
+2020-10-16 08:37:46,131: [download_new]: old version: 85.0 >>> new version: 87.0
+2020-10-16 08:37:46,131: [download_new]: getting file data
+2020-10-16 08:38:31,835: [<module>]: Running Update
+2020-10-16 08:38:32,329: [check_new]: checked latest version of driver
+2020-10-16 08:38:32,329: [download_new]: there is a new version of driver
+2020-10-16 08:38:32,330: [download_new]: old version: 85.0 >>> new version: 87.0
+2020-10-16 08:38:32,330: [download_new]: getting file data
+2020-10-16 08:38:33,283: [download_new]: downloading zip file
+2020-10-16 08:38:33,284: [download_new]: zip file ready
+2020-10-16 08:38:33,284: [extract_zip]: extracting driver from zip
+2020-10-16 08:38:33,353: [extract_zip]: removing old driver from documents directory
+2020-10-16 08:38:33,354: [extract_zip]: moving new driver
+2020-10-16 08:38:33,354: [extract_zip]: moved driver to documents folder
+2020-10-16 08:38:33,356: [<module>]: End of Update
+
+2020-10-23 08:02:46,727: [<module>]: Running Update
+2020-10-23 08:11:52,073: [<module>]: Running Update
+2020-10-23 08:11:52,657: [check_new]: checked latest version of driver
+2020-10-23 08:11:52,657: [download_new]: no new version
+2020-10-23 08:11:52,657: [<module>]: End of Update
+
+2020-10-23 08:15:25,508: [<module>]: Running Update
+2020-10-23 08:15:26,227: [check_new]: checked latest version of driver
+2020-10-23 08:15:26,228: [download_new]: no new version
+2020-10-23 08:15:26,228: [<module>]: End of Update
+
+2020-10-23 08:15:31,752: [<module>]: Running Update
+2020-10-23 08:15:32,801: [check_new]: checked latest version of driver
+2020-10-23 08:15:32,801: [download_new]: no new version
+2020-10-23 08:15:32,801: [<module>]: End of Update
+
+2020-10-23 08:15:36,173: [<module>]: Running Update
+2020-10-23 08:15:37,209: [check_new]: checked latest version of driver
+2020-10-23 08:15:37,210: [download_new]: no new version
+2020-10-23 08:15:37,210: [<module>]: End of Update
+
+2020-10-23 08:16:02,604: [<module>]: Running Update
+2020-10-23 08:16:03,615: [check_new]: checked latest version of driver
+2020-10-23 08:16:03,631: [download_new]: no new version
+2020-10-23 08:16:03,631: [<module>]: End of Update
+
+2020-10-23 08:16:12,603: [<module>]: Running Update
+2020-10-23 08:16:13,673: [check_new]: checked latest version of driver
+2020-10-23 08:16:13,673: [download_new]: no new version
+2020-10-23 08:16:13,673: [<module>]: End of Update
+
+2020-10-23 08:16:14,645: [<module>]: Running Update
+2020-10-23 08:16:15,695: [check_new]: checked latest version of driver
+2020-10-23 08:16:15,695: [download_new]: no new version
+2020-10-23 08:16:15,695: [<module>]: End of Update
+
+2020-10-23 08:16:22,430: [<module>]: Running Update
+2020-10-23 08:16:23,464: [check_new]: checked latest version of driver
+2020-10-23 08:16:23,464: [download_new]: no new version
+2020-10-23 08:16:23,464: [<module>]: End of Update
+
+2020-10-23 08:16:29,877: [<module>]: Running Update
+2020-10-23 08:16:30,666: [check_new]: checked latest version of driver
+2020-10-23 08:16:30,668: [download_new]: no new version
+2020-10-23 08:16:30,669: [<module>]: End of Update
+
+2020-10-23 08:16:42,301: [<module>]: Running Update
+2020-10-23 08:16:43,040: [check_new]: checked latest version of driver
+2020-10-23 08:16:43,041: [download_new]: no new version
+2020-10-23 08:16:43,041: [<module>]: End of Update
+
+2020-10-23 08:17:16,611: [<module>]: Running Update
+2020-10-23 08:17:17,239: [check_new]: checked latest version of driver
+2020-10-23 08:17:17,239: [download_new]: no new version
+2020-10-23 08:17:17,239: [<module>]: End of Update
+
+2020-10-23 08:23:11,728: [<module>]: Running Update
+2020-10-23 08:23:12,856: [check_new]: checked latest version of driver
+2020-10-23 08:23:12,856: [download_new]: no new version
+2020-10-23 08:23:12,856: [<module>]: End of Update
+
+2020-10-23 08:23:42,645: [<module>]: Running Update
+2020-10-23 08:23:43,227: [check_new]: checked latest version of driver
+2020-10-23 08:23:43,227: [download_new]: no new version
+2020-10-23 08:23:43,227: [<module>]: End of Update
+
+2020-10-23 08:26:47,051: [<module>]: Running Update
+2020-10-23 08:26:48,080: [check_new]: checked latest version of driver
+2020-10-23 08:26:48,081: [download_new]: no new version
+2020-10-23 08:26:48,082: [<module>]: End of Update
+
+2020-10-23 08:26:58,848: [<module>]: Running Update
+2020-10-23 08:26:59,462: [check_new]: checked latest version of driver
+2020-10-23 08:26:59,462: [download_new]: no new version
+2020-10-23 08:26:59,462: [<module>]: End of Update
+
+2020-10-23 08:27:03,762: [<module>]: Running Update
+2020-10-23 08:27:04,893: [check_new]: checked latest version of driver
+2020-10-23 08:27:04,893: [download_new]: no new version
+2020-10-23 08:27:04,893: [<module>]: End of Update
+
+2020-10-23 08:27:11,853: [<module>]: Running Update
+2020-10-23 08:27:12,441: [check_new]: checked latest version of driver
+2020-10-23 08:27:12,441: [download_new]: no new version
+2020-10-23 08:27:12,441: [<module>]: End of Update
+
+2020-10-23 08:27:26,833: [<module>]: Running Update
+2020-10-23 08:27:27,430: [check_new]: checked latest version of driver
+2020-10-23 08:27:27,430: [download_new]: no new version
+2020-10-23 08:27:27,430: [<module>]: End of Update
+
+2020-10-23 08:28:07,298: [<module>]: Running Update
+2020-10-23 08:28:08,316: [check_new]: checked latest version of driver
+2020-10-23 08:28:08,316: [download_new]: no new version
+2020-10-23 08:28:08,316: [<module>]: End of Update
+
+2020-10-23 08:28:56,783: [<module>]: Running Update
+2020-10-23 08:28:57,376: [check_new]: checked latest version of driver
+2020-10-23 08:28:57,378: [download_new]: no new version
+2020-10-23 08:28:57,378: [<module>]: End of Update
+
+2020-10-23 08:29:09,117: [<module>]: Running Update
+2020-10-23 08:29:10,131: [check_new]: checked latest version of driver
+2020-10-23 08:29:10,133: [download_new]: no new version
+2020-10-23 08:29:10,134: [<module>]: End of Update
+
+2020-10-23 08:29:41,275: [<module>]: Running Update
+2020-10-23 08:29:41,853: [check_new]: checked latest version of driver
+2020-10-23 08:29:41,853: [download_new]: no new version
+2020-10-23 08:29:41,853: [<module>]: End of Update
+

@@ -4,21 +4,21 @@ from bs4 import BeautifulSoup
 import ezlog
 import zipfile
 import os
+from time import sleep
 
 
 log = ezlog.MyLogger(
-    'driver', file=r'C:\Users\HASSANIN\Desktop\PythonProj\Local\dirver update\driver.log', form='time: [function]: msg')
+    'driver', file='driver.log', form='time: [function]: msg')
 FILEURL = 'https://chromedriver.storage.googleapis.com/'
 FILENAME = 'chromedriver_win32.zip'
 
 
 def cur_version():
-    with open(r'C:\Users\HASSANIN\Desktop\PythonProj\Local\dirver update\version', 'rb') as file:
-        return pickle.load(file)
+    return pickle.load(open('version', 'rb'))
 
 
 def update_version(new):
-    with open(r'C:\Users\HASSANIN\Desktop\PythonProj\Local\dirver update\version', 'wb') as file:
+    with open('version', 'wb') as file:
         pickle.dump(new, file)
 
 
@@ -74,3 +74,7 @@ if __name__ == "__main__":
     ver = download_new()
     update_version(ver)
     log.info('End of Update\n')
+    for i in range(3, 0, -1):
+        print(i, end='\r')
+        sleep(0.7)
+    print('\r', end='\r')
