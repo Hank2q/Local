@@ -152,3 +152,52 @@
 2020-10-23 08:29:41,853: [download_new]: no new version
 2020-10-23 08:29:41,853: [<module>]: End of Update
 
+2020-10-30 11:32:25,796: [<module>]: Running Update
+2020-10-30 21:34:25,225: [<module>]: Running Update
+2020-10-30 21:34:25,919: [check_new]: checked latest version of driver
+2020-10-30 21:34:25,920: [download_new]: no new version
+2020-10-30 21:34:25,921: [<module>]: End of Update
+
+2020-10-31 12:23:58,950: [<module>]: Running Update
+2020-10-31 12:23:59,797: [check_new]: checked latest version of driver
+2020-10-31 12:23:59,798: [download_new]: no new version
+2020-10-31 12:23:59,799: [<module>]: End of Update
+
+2020-11-06 08:00:40,929: [<module>]: Running Update
+2020-11-06 08:00:41,732: [check_new]: checked latest version of driver
+2020-11-06 08:00:42,039: [download_new]: no new version
+2020-11-06 08:00:42,040: [<module>]: End of Update
+
+2020-11-13 08:00:39,915: [<module>]: Running Update
+2020-11-13 08:00:40,765: [check_new]: checked latest version of driver
+2020-11-13 08:00:40,767: [download_new]: no new version
+2020-11-13 08:00:40,767: [<module>]: End of Update
+
+2020-11-20 08:00:40,015: [<module>]: Running Update
+2020-11-20 08:00:40,790: [check_new]: checked latest version of driver
+2020-11-20 08:00:40,791: [download_new]: no new version
+2020-11-20 08:00:40,792: [<module>]: End of Update
+
+2020-11-27 08:00:40,176: [<module>]: Running Update
+2020-11-27 08:00:40,996: [check_new]: checked latest version of driver
+2020-11-27 08:00:40,996: [download_new]: no new version
+2020-11-27 08:00:40,996: [<module>]: End of Update
+
+2020-12-04 08:00:39,982: [<module>]: Running Update
+2020-12-04 08:00:40,726: [check_new]: checked latest version of driver
+2020-12-04 08:00:40,726: [download_new]: there is a new version of driver
+2020-12-04 08:00:40,726: [download_new]: old version: 87.0 >>> new version: 88.0
+2020-12-04 08:00:40,726: [download_new]: getting file data
+2020-12-04 08:00:42,909: [download_new]: downloading zip file
+2020-12-04 08:00:42,917: [download_new]: zip file ready
+2020-12-04 08:00:42,917: [extract_zip]: extracting driver from zip
+2020-12-04 08:00:43,028: [extract_zip]: removing old driver from documents directory
+2020-12-04 08:00:43,028: [extract_zip]: moving new driver
+2020-12-04 08:00:43,029: [extract_zip]: moved driver to documents folder
+2020-12-04 08:00:43,031: [<module>]: End of Update
+
+2020-12-11 08:00:40,081: [<module>]: Running Update
+2020-12-11 08:00:40,894: [check_new]: checked latest version of driver
+2020-12-11 08:00:40,896: [download_new]: no new version
+2020-12-11 08:00:40,897: [<module>]: End of Update
+
